@@ -1,0 +1,13 @@
+It takes number of rows as input rows and number of columns as columns
+You must enter the numeric digits with including space for n number of digits for n number of columns
+In values number digits with excluding spaces is equal to number of columns
+The values must be less than or equal to total size of column
+Example :
+      rows : 4
+      columns : 4
+      Values  : 1 2 3 2
+      Values  : 0 1 2 1
+      Values  : 2 1 2 1
+      Values  : 3 1 2 1
+If there is a path it shows the Horse travelling in that path
+If there is no path it notifies that there is no path to travel
